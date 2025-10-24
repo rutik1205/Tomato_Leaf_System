@@ -5,3 +5,5 @@ pandas
 tensorflow
 fpdf
 groq
+python-docx
+
