@@ -6,4 +6,5 @@ tensorflow
 fpdf
 groq
 python-docx
+twilio
 
